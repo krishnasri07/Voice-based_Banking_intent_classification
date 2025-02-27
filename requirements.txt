@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+pyaudio
+speechrecognition
+faster-whisper
+threading
+wave
